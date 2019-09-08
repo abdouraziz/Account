@@ -1,0 +1,4 @@
+{
+  "MongooseURI": "mongodb://localhost:27017/account",
+  "secretJwt": "secret"
+}
